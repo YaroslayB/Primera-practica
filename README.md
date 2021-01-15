@@ -1,2 +1,2 @@
 # Primera-practica
-https://yaroslaybravo.github.io/Primera-practica/
+https://yaroslayb.github.io/Primera-practica/
